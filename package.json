@@ -1,0 +1,23 @@
+{
+  "name": "markdown-it-auto-crosslinker",
+  "version": "1.0.0",
+  "description": "Automatically cross-links pages at first appearance",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tg44/markdown-it-auto-crosslinker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tg44/markdown-it-auto-crosslinker/issues"
+  },
+  "homepage": "https://github.com/tg44/markdown-it-auto-crosslinker",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": ["markdown-it-plugin", "crosslink", "crosslinker", "wiki", "link"],
+  "author": "Gergo Torcsvari",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-it": "^12.0.6"
+  }
+}

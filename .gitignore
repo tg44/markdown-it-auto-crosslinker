@@ -1,0 +1,17 @@
+node_modules/
+docs/.vuepress/dist/
+*#
+*.idea
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.tm.epoch
+*.vim
+*.env
+*~
+.#*
+.*.swp
+.DS_Store
+.bsp
+.cache
