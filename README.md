@@ -1,4 +1,6 @@
-# markdown-it-auto-crosslinker
+# Markdown-it auto-crosslinker
+
+[![npm](https://img.shields.io/npm/v/markdown-it-auto-crosslinker)](https://www.npmjs.com/package/markdown-it-auto-crosslinker)
 
 ## Installation
 ```
